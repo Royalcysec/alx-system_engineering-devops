@@ -4,3 +4,4 @@ task 2-bring_me_home
 task 3-listfiles
 task 4-listmorefiles
 task 5-listfilesdigitonly
+task 6-firstdirectory
