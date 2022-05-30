@@ -1,5 +1,5 @@
 0-hello_world
-1-confused-smiley
+1-confused_smiley
 2-hellofile
 3-twofiles
 4-lastlines
@@ -7,3 +7,4 @@
 6-third_line
 7-file
 8-cwd_state
+9-duplicate_last_line
